@@ -1,6 +1,6 @@
 ### Hello! :wave:😄
 
-I'm a **full-stack developer** specilized in **front-end development**, living in **Blumenau, Brazil**.
+I'm a **full-stack developer** specilized in **front-end development** living in **Blumenau, Brazil**.
 
 * I've been creating interfaces using **Javascript**, **CSS** and **SASS** for a while now. Also, very familiar with **React**.
 * Very passionate about delivering high-quality web interfaces and coming up with **CSS animations**.
