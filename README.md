@@ -5,7 +5,7 @@ I'm a **full-stack developer** specilized in **front-end development** living in
 * I've been creating interfaces using **Javascript**, **CSS** and **SASS** for a while now. Also, very familiar with **React**.
 * Very passionate about delivering high-quality web interfaces.
 * My background in back-end development is mostly in **C#** within the **ASP.NET** environment, but I'm familiar with **.NET Core** and **Node.js**. 
-* I' currently learning about **DevOps** and **microservices**.
+* I'm currently learning about **DevOps** and **microservices**.
 
 📫 [Find me on Linkedin](https://www.linkedin.com/in/isaac-amaro-da-costa/).
 
